@@ -1,0 +1,10 @@
+__pycache__/
+
+*.log
+
+db.sqlite3
+
+static/
+staticfiles/
+media/
+project/local_settings.py
